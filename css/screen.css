@@ -186,7 +186,11 @@ a:focus {
 .o-row {
     position: relative;
     padding: 24px 24px 0;
-    display: flow-root;
+    display: flow-root;   
+}
+
+.o-row—neutral-x-light{
+    background-color: #F7F7F7;
 }
 
 /* size modifiers */
